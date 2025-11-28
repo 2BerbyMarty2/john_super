@@ -1,0 +1,11 @@
+Hermione Granger | 0719384928 | The Three Broomsticks | Time Turner | The Tales of Beedle the Bard | Butter Beer | Felix Felicis
+Harry Potter      | 0719234567 | Hogwarts Express       | Invisibility Cloak | Marauder's Map | Firebolt | Philosopher's Stone
+Ron Weasley       | 0719345678 | Weasleys' Wizard Wheezes | Deluminator | Extendable Ears | Chudley Cannons Jersey | Scabbers
+Luna Lovegood     | 0719456789 | Ravenclaw Tower        | Spectrespecs | Quibbler | Dirigible Plum | Thestral Feather
+Draco Malfoy      | 0719567890 | Malfoy Manor           | Nimbus 2001 | Hand of Glory | Vanishing Cabinet | Potions Kit
+Neville Longbottom| 0719678901 | Greenhouse 3           | Mimbulus Mimbletonia | Remembrall | Sword of Gryffindor | Herbology Kit
+Ginny Weasley     | 0719789012 | Gryffindor Common Room | Bat-Bogey Hex Scroll | Holyhead Harpies Poster | Firebolt | Love Potion
+Cedric Diggory    | 0719890123 | Hufflepuff Basement    | Triwizard Cup Replica | Quidditch Robes | Wand Holster | Golden Snitch
+Cho Chang         | 0719901234 | Ravenclaw Library      | Sneakoscope | Charm Bracelet | Butterbeer Glass | Ice Mice
+Fred Weasley      | 0719012345 | Joke Shop              | Skiving Snackbox | Portable Swamp | Ton-Tongue Toffee | Extendable Ear
+George Weasley    | 0719123456 | Joke Shop              | Decoy Detonator | Canary Cream | Fanged Flyer | Extendable Ear

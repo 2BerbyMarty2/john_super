@@ -1,0 +1,10 @@
+HP0001|Butterbeer|Three Broomsticks|3.5|10|Drink|2025-07-19|images/Butterbeer.jpeg|5
+HP0002|Invisibility Cloak|Dumbledore|999.99|1|Magical Items|2025-07-18|images/Invisibility_Cloak.jpg|1
+HP0003|Time Turner|Ministry|499.99|2|Magical Items|2025-07-15|images/Time_Turner.jpg|2
+HP0004|Firebolt|Nimbus|799.0|1|Broomsticks|2025-07-16|images/Firebolt.jpg|1
+HP0005|Marauder's Map|Moony Inc.|250.0|3|Maps|2025-07-17|images/Marauder's_Map.jpg|2
+HP0006|Potion Kit|Snape Ltd|75.5|15|Potions|2025-07-12|images/Potion_Kit.jpg|10
+HP0007|Spell Book|Hogwarts|60.0|20|Books|2025-07-01|images/Spell_Book.jpg|10
+HP0008|Quibbler|Lovegood|5.0|10|Magazine|2025-06-30|images/Quibbler.jpeg|20
+HP0009|Wand|Ollivanders|120.0|7|Wands|2025-07-05|images/Wand.jpg|5
+HP0010|Felix Felicis|Slug Club|150.0|4|Potions|2025-07-03|images/Felix_Felicis.jpeg|3

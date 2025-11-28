@@ -1,0 +1,11 @@
+.button {
+    -fx-background-color: #c1c1c1, #5a5a5a;
+    -fx-text-fill: #ffffff;
+    -fx-font-family: "Roboto";
+    -fx-font-size: 15px;
+    -fx-background-radius: 8px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 6, 0, 0, 2);
+}
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom, #707070, #4a4a4a);
+}
